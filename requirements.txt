@@ -1,5 +1,4 @@
-pip== 20.3.3      
-python == 3.9.1    
+pip== 20.3.3 
 pytorch==1.7.1 
 cython == 0.29.21       
 fastai ==2.2.5
@@ -12,11 +11,7 @@ voila== 0.2.6
 jupyter==1.0.0           
 jupyter_nbextensions_configurator==0.4.1        
 matplotlib==3.3.3                        
-notebook==6.2.0
-numpy==1.19.5                  
-pandas== 1.2.1                
-pillow==8.1.0            
-requests== 2.25.1       
-scikit-learn==0.24.1          
+notebook==6.2.0             
+    
 
 
