@@ -9,8 +9,8 @@ voila== 0.2.6
 jupyter_nbextensions_configurator==0.4.1        
 matplotlib==3.3.3                        
 notebook==6.2.0             
-pathlib
-os
+pathlib==3.4.0
+
     
 
 
