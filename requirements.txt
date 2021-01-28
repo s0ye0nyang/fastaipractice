@@ -1,6 +1,6 @@
 pip== 20.3.3 
 cython == 0.29.21   
-torch==1.0.2
+torch==1.7.1
 fastai ==2.2.5
 fastbook == 0.0.16             
 ipython == 7.19.0        
